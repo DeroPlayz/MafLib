@@ -12,7 +12,7 @@ import java.util.Scanner;
 // import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-public class Library{
+public class MafLib{
     public static JTextField response = new JTextField();
     public static boolean asking = false;
     public static final String RESET = "\033[0m";
